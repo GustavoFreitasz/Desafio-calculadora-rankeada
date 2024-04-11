@@ -22,5 +22,5 @@ function calcularRankeadas(vitorias, derrotas) {
 }
 
 // Exemplo de uso
-let resultado = calcularRankeadas(70, 20);
+let resultado = calcularRankeadas(100, 80);
 console.log(resultado);  // Saída: "O Herói tem saldo de 50 está no nível de Ouro"
